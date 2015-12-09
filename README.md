@@ -30,3 +30,4 @@ Using jsbin, write javascript code to do the following: (you can use jquery =) )
     <li>The Boy Next Door</li>
   </ul>
 4. Add a button that when clicked shows all the li's again.
+5. Using ajax - load the [movies.json](/movies.json) file from this repo and display the critics score for each movie as a li element in a ul tag.
