@@ -29,4 +29,4 @@ Using jsbin, write javascript code to do the following: (you can use jquery =) )
     <li>The Wedding Ringer</li>
     <li>The Boy Next Door</li>
   </ul>
-  ```html
+  ```
